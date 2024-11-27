@@ -1,14 +1,7 @@
-metadatos = """
-Autor: IA (Inteligencia Artificial)
-Textos utilizados en la creación: Galdós y Bazán (influencia indirecta)
-Fuente de generación: Modelo GPT-3 de OpenAI
-Fecha de creación: 2024-11-27
-Idioma: Español
-Género: Fantasía épica, Aventura, Filosófico
-Tamaño del texto: 10,000 palabras (aproximadamente)
-Estructura narrativa: Influenciada por la narrativa clásica española, con elementos de aventura y sacrificio.
-"""
+author: IA-generated
+url: https://example.com/generated_text
 
+START OF
 Había una vez, en un mundo olvidado por el tiempo, un lugar donde las reglas de la naturaleza no se aplicaban. Las montañas se elevaban más allá de las nubes, y los valles parecían contener secretos que solo unos pocos afortunados habían logrado descubrir. Los habitantes de este mundo, seres de una complejidad emocional y social impresionante, habían logrado una armonía que desbordaba la comprensión de aquellos que venían de lugares lejanos.
 
 Los árboles de la región tenían una forma peculiar. Sus ramas no se extendían de la forma convencional, sino que se retorcían hacia arriba como si intentaran tocar las estrellas. Era un lugar en el que lo desconocido y lo inexplicable coexistían, y donde cualquier intento de comprender completamente su naturaleza terminaba siendo un desafío para los más grandes pensadores.
@@ -104,4 +97,5 @@ Con estas palabras, Elian comprendió que su viaje estaba lejos de terminar. Hab
 Así comenzó una nueva etapa en la vida de Elian, una etapa en la que enfrentaría desafíos más allá de su comprensión, pero que también le permitiría aprender más sobre los misterios del universo.
 
 Y mientras viajaba, Elian recordaba siempre la lección fundamental que había aprendido: el sacrificio no era un final, sino un comienzo, y el equilibrio no era algo que se pudiera imponer, sino algo que debía ser entendido y respetado.
+END OF
 
